@@ -1,7 +1,8 @@
 
 # Hey There, I'm Alebiosu Havilah
 
-I'm a pythonista with a   burning desire to excel in the field. Currently, I'm a student with a liking to the world of coding . I'm ready to learn more about web development and coding as a whole.
+I'm a Python enthusiast with a strong passion for excelling in the field. Currently, I'm a student who enjoys the world of coding. I'm eager to learn more about web development and programming as a whole."
+
 
 ## Skills
 
